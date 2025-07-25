@@ -32,14 +32,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerah7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerah7&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical" width="300"/>
 </p>
 
 ### 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zerah7&theme=radical&no-frame=true&margin-w=10&title=MultiLanguage,Commits,Repositories,Experience,Followers" width="800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarah20037&theme=radical&no-frame=true&margin-w=10&title=MultiLanguage,Commits,Repositories,Experience,Followers" width="800"/>
 </p>
 
 <p align="center">
