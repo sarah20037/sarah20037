@@ -25,10 +25,10 @@ software development, artificial intelligence, and real-world problem solving.
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering Graduate from **MEC, Kochi**
-- 💻 Passionate about **Software Development, AI & Machine Learning**
-- 🧠 Interested in developing intelligent applications using modern technologies
+- 💻 Interested in **Software Development, Artificial Intelligence & Machine Learning**
+- 🧠 Building intelligent applications using modern technologies
 - 🌱 Exploring full-stack development, computer vision, and AI systems
-- 🚀 Always learning through hands-on projects
+- 🚀 Learning through practical projects and continuous improvement
 
 
 ---
@@ -81,13 +81,13 @@ software development, artificial intelligence, and real-world problem solving.
 
 ## 🗣️ Silextra
 
-AI-powered communication platform integrating speech recognition, translation, and avatar technologies.
+AI-powered communication platform combining speech processing, translation, and avatar technologies.
 
 **Tech:** Python • Google Gemini • Google Cloud Translation API • NLP • Speech Recognition • DeepMotion AI • Blender • JavaScript
 
-- Developed speech processing and translation features.
-- Implemented speech-to-text conversion and English-to-Malayalam translation.
-- Worked on AI-driven avatar interaction systems.
+- Developed speech recognition and translation features.
+- Implemented speech-to-text and English-to-Malayalam translation.
+- Worked on interactive AI avatar systems.
 
 
 ---
@@ -95,13 +95,13 @@ AI-powered communication platform integrating speech recognition, translation, a
 
 ## 👓 EchoFrame
 
-AI-powered smart glasses for real-time object detection and accessibility support.
+AI-powered smart glasses providing real-time environmental awareness.
 
 **Tech:** Python • YOLOv5 • TensorFlow Lite • ESP32-S3
 
-- Developed computer vision based object detection features.
-- Integrated lightweight AI models for edge devices.
-- Enabled audio feedback from detected objects.
+- Developed real-time object detection features.
+- Integrated optimized AI models for embedded devices.
+- Implemented audio feedback based on detected objects.
 
 
 ---
@@ -109,12 +109,12 @@ AI-powered smart glasses for real-time object detection and accessibility suppor
 
 ## 🛡️ Helmet Detection System
 
-Computer vision based safety monitoring system.
+Computer vision based automated safety monitoring system.
 
-**Tech:** Python • YOLOv5 • Machine Learning
+**Tech:** Python • YOLOv5 • Computer Vision
 
-- Built a helmet detection system using YOLOv5.
-- Applied object detection techniques for automated image analysis.
+- Built helmet detection using YOLOv5.
+- Applied deep learning techniques for object recognition.
 
 
 ---
@@ -122,13 +122,13 @@ Computer vision based safety monitoring system.
 
 ## 😊 Mood Decode
 
-Mental wellness application using Natural Language Processing.
+NLP-powered mental wellness support application.
 
 **Tech:** Python • Flask • NLP
 
-- Created NLP pipelines to analyze user input.
-- Mapped text responses to emotional states.
-- Generated personalized recommendations.
+- Developed text analysis features using NLP.
+- Classified user input into emotional states.
+- Generated personalized suggestions based on mood.
 
 
 ---
@@ -136,12 +136,12 @@ Mental wellness application using Natural Language Processing.
 
 ## 🕵️ NoTrace
 
-AI-powered image protection tool against deepfake misuse.
+AI-powered image protection system against deepfake misuse.
 
 **Tech:** Python • Flask • Adversarial Machine Learning
 
 - Implemented adversarial noise generation techniques.
-- Explored AI-based protection against synthetic media manipulation.
+- Explored AI security methods for image protection.
 
 
 ---
@@ -151,26 +151,15 @@ AI-powered image protection tool against deepfake misuse.
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-width="420"/>
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical"
+/>
 
 <br><br>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical" 
-width="320"/>
-
-</div>
-
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img 
-src="https://github-profile-trophy.vercel.app/?username=sarah20037&theme=radical&no-frame=true&margin-w=10"
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical"
 />
 
 </div>
