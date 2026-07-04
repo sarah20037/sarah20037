@@ -25,16 +25,15 @@ software development, artificial intelligence, and real-world problem solving.
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering Graduate from **MEC, Kochi**
-- 💻 Passionate about **Software Development, Artificial Intelligence & Machine Learning**
-- 🧠 Interested in creating intelligent systems with modern technologies
-- 🌱 Exploring full-stack development, computer vision, and AI applications
-- 🚀 Learning through building real-world projects
+- 💻 Passionate about **Software Development, AI & Machine Learning**
+- 🧠 Interested in developing intelligent applications using modern technologies
+- 🌱 Exploring full-stack development, computer vision, and AI systems
+- 🚀 Always learning through hands-on projects
 
 
 ---
 
 # 🛠️ Tech Stack
-
 
 ### Programming Languages
 
@@ -82,13 +81,13 @@ software development, artificial intelligence, and real-world problem solving.
 
 ## 🗣️ Silextra
 
-AI-powered communication platform integrating speech processing, translation, and avatar technologies.
+AI-powered communication platform integrating speech recognition, translation, and avatar technologies.
 
 **Tech:** Python • Google Gemini • Google Cloud Translation API • NLP • Speech Recognition • DeepMotion AI • Blender • JavaScript
 
-- Developed intelligent speech processing features.
-- Implemented speech-to-text and English-to-Malayalam translation.
-- Worked on AI avatar creation for interactive communication.
+- Developed speech processing and translation features.
+- Implemented speech-to-text conversion and English-to-Malayalam translation.
+- Worked on AI-driven avatar interaction systems.
 
 
 ---
@@ -96,13 +95,13 @@ AI-powered communication platform integrating speech processing, translation, an
 
 ## 👓 EchoFrame
 
-AI-powered smart glasses enabling real-time object detection and accessibility assistance.
+AI-powered smart glasses for real-time object detection and accessibility support.
 
 **Tech:** Python • YOLOv5 • TensorFlow Lite • ESP32-S3
 
-- Built computer vision features for real-time object detection.
-- Integrated AI models optimized for edge devices.
-- Developed audio feedback functionality based on detected objects.
+- Developed computer vision based object detection features.
+- Integrated lightweight AI models for edge devices.
+- Enabled audio feedback from detected objects.
 
 
 ---
@@ -110,12 +109,12 @@ AI-powered smart glasses enabling real-time object detection and accessibility a
 
 ## 🛡️ Helmet Detection System
 
-Computer vision based safety monitoring system using deep learning.
+Computer vision based safety monitoring system.
 
-**Tech:** Python • YOLOv5 • Computer Vision
+**Tech:** Python • YOLOv5 • Machine Learning
 
-- Implemented helmet detection using YOLO object detection.
-- Applied deep learning techniques for automated image analysis.
+- Built a helmet detection system using YOLOv5.
+- Applied object detection techniques for automated image analysis.
 
 
 ---
@@ -123,13 +122,13 @@ Computer vision based safety monitoring system using deep learning.
 
 ## 😊 Mood Decode
 
-NLP-based mental wellness application that analyzes user input and provides personalized support.
+Mental wellness application using Natural Language Processing.
 
 **Tech:** Python • Flask • NLP
 
-- Built text-processing pipelines to understand user emotions.
-- Classified mood patterns using natural language processing.
-- Generated personalized suggestions based on emotional states.
+- Created NLP pipelines to analyze user input.
+- Mapped text responses to emotional states.
+- Generated personalized recommendations.
 
 
 ---
@@ -137,12 +136,12 @@ NLP-based mental wellness application that analyzes user input and provides pers
 
 ## 🕵️ NoTrace
 
-AI-powered image protection system designed to reduce deepfake misuse.
+AI-powered image protection tool against deepfake misuse.
 
 **Tech:** Python • Flask • Adversarial Machine Learning
 
-- Implemented adversarial noise techniques for image protection.
-- Explored AI security methods against synthetic media generation.
+- Implemented adversarial noise generation techniques.
+- Explored AI-based protection against synthetic media manipulation.
 
 
 ---
@@ -151,25 +150,28 @@ AI-powered image protection system designed to reduce deepfake misuse.
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+width="420"/>
 
 <br><br>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical" 
+width="320"/>
 
 </div>
 
 
 ---
 
-# 🔥 Contribution Streak
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=sarah20037&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://github-profile-trophy.vercel.app/?username=sarah20037&theme=radical&no-frame=true&margin-w=10"
+/>
 
 </div>
 
@@ -180,21 +182,9 @@ src="https://streak-stats.demolab.com?user=sarah20037&theme=tokyonight&hide_bord
 
 <div align="center">
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-snake.svg">
-
-<img
-alt="github contribution snake"
-src="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-snake.svg">
-
-</picture>
+<img 
+src="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-contribution-grid-snake.svg"
+/>
 
 </div>
 
