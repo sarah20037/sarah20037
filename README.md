@@ -4,8 +4,8 @@
 
 ### Software Developer | Computer Science Engineering Graduate | AI Enthusiast
 
-Building intelligent applications, exploring full-stack development,  
-and creating software solutions powered by emerging technologies.
+Building intelligent applications and exploring the intersection of  
+software development, artificial intelligence, and real-world problem solving.
 
 <br>
 
@@ -24,36 +24,31 @@ and creating software solutions powered by emerging technologies.
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Graduate from **MEC, Kochi**
-- 💻 Interested in **Software Development, Artificial Intelligence & Machine Learning**
-- 🌱 Currently expanding my knowledge in **Full Stack Development and AI technologies**
-- 🤖 Passionate about applying AI to solve real-world problems
-- 🚀 Always exploring, learning, and building new things
+- 🎓 Computer Science Engineering Graduate from **MEC, Kochi**
+- 💻 Passionate about **Software Development, AI, and Machine Learning**
+- 🧠 Interested in building intelligent systems using modern technologies
+- 🌱 Exploring full-stack development, computer vision, and AI applications
+- 🚀 Continuously learning and improving through hands-on projects
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 &nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 &nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 &nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-
 </p>
 
 
-### Frameworks, Tools & Technologies
+### Technologies & Tools
 
 <p>
 
@@ -76,36 +71,32 @@ and creating software solutions powered by emerging technologies.
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Projects
 
 
-## 🗣️ Silextra — AI Powered Communication Platform
+## 🗣️ Silextra
 
-**Role:** Backend Developer  
-**Team Size:** 4  
-**Status:** Ongoing  
+AI-powered communication platform combining language processing, translation, and digital avatar technologies.
 
-**Tech Stack:**  
-Python | Google Cloud Translation API | Google Gemini | NLP | Speech Recognition | DeepMotion AI | Blender | HTML | CSS | JavaScript
+**Tech:** Python • Google Gemini • Google Cloud Translation API • NLP • Speech Recognition • DeepMotion AI • Blender
 
-- Developed features for speech processing and language translation.
-- Worked on speech-to-text conversion and English-to-Malayalam translation.
-- Contributed to AI avatar creation for interactive communication experiences.
+- Built speech processing features for intelligent communication.
+- Implemented speech-to-text and English-to-Malayalam translation workflows.
+- Worked on AI avatar generation and interaction systems.
 
 
 ---
 
 
-## 👓 EchoFrame — AI Smart Glasses
+## 👓 EchoFrame
 
-**Role:** Backend Developer  
+AI-powered smart glasses designed for real-time environmental understanding and accessibility assistance.
 
-**Tech Stack:**  
-YOLOv5 | TensorFlow Lite | ESP32-S3 | Python
+**Tech:** Python • YOLOv5 • TensorFlow Lite • ESP32-S3
 
-- Developed an AI-powered smart glasses system.
-- Implemented real-time object detection using computer vision.
-- Integrated audio feedback support for detected objects.
+- Developed computer vision features for real-time object detection.
+- Integrated lightweight AI models for edge devices.
+- Enabled audio-based feedback from visual recognition.
 
 
 ---
@@ -113,45 +104,39 @@ YOLOv5 | TensorFlow Lite | ESP32-S3 | Python
 
 ## 🛡️ Helmet Detection System
 
-**Role:** Backend Developer  
+Computer vision system for automated safety monitoring using deep learning.
 
-**Tech Stack:**  
-Python | YOLOv5 | Computer Vision
+**Tech:** Python • YOLOv5 • Machine Learning
 
-- Built a deep learning based helmet detection system.
-- Used YOLOv5 for automated object detection.
-- Applied computer vision techniques for safety monitoring.
+- Implemented helmet detection using object detection models.
+- Applied deep learning techniques for image analysis and classification.
 
 
 ---
 
 
-## 😊 Mood Decode — Mental Health Support Application
+## 😊 Mood Decode
 
-**Role:** Backend Developer  
+NLP-based mental wellness application that analyzes user input and provides personalized support.
 
-**Tech Stack:**  
-Python | Flask | Natural Language Processing (NLP)
+**Tech:** Python • Flask • NLP
 
-- Created an NLP-powered mental health support application.
-- Analyzed user input and mapped responses to mood states.
-- Provided personalized suggestions based on detected emotions.
+- Processed text input to understand emotional patterns.
+- Classified mood states using natural language processing.
+- Generated personalized recommendations based on user emotions.
 
 
 ---
 
 
-## 🕵️ NoTrace — Deepfake Protection System
+## 🕵️ NoTrace
 
-**Role:** Backend Developer  
-**Status:** Ongoing  
+AI-based image protection system focused on reducing deepfake misuse.
 
-**Tech Stack:**  
-Python | Flask | Adversarial Machine Learning
+**Tech:** Python • Flask • Adversarial Machine Learning
 
-- Developing an AI-powered image protection system.
-- Generates adversarial noise to protect images.
-- Helps prevent unauthorized deepfake misuse.
+- Developed techniques to protect digital images using adversarial noise.
+- Explored AI security approaches against synthetic media generation.
 
 
 ---
@@ -171,7 +156,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&l
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -185,6 +170,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=sarah20037&theme=tok
 
 <div align="center">
 
-### ✨ Learn. Build. Innovate.
+### "Building, learning, and creating with technology."
 
 </div>
