@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="zerah.gif" alt="Sarah Coding" width="210"/>
-
 # Hi, I'm Sarah Mathew 👋
 
 ### Software Developer | Computer Science Engineering Graduate | AI Enthusiast
 
 Building intelligent applications, exploring full-stack development,  
-and learning how technology can solve real-world problems.
+and creating software solutions powered by emerging technologies.
 
 <br>
 
@@ -27,10 +25,10 @@ and learning how technology can solve real-world problems.
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Graduate from **MEC, Kochi**
-- 💻 Interested in **Software Development, AI & Machine Learning**
-- 🌱 Currently improving my skills in **Full Stack Development**
-- 🤖 Exploring practical applications of **Artificial Intelligence**
-- 🚀 Passionate about building meaningful software solutions
+- 💻 Interested in **Software Development, Artificial Intelligence & Machine Learning**
+- 🌱 Currently expanding my knowledge in **Full Stack Development and AI technologies**
+- 🤖 Passionate about applying AI to solve real-world problems
+- 🚀 Always exploring, learning, and building new things
 
 
 ---
@@ -40,17 +38,22 @@ and learning how technology can solve real-world problems.
 ### Languages
 
 <p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 &nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 &nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 &nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
 </p>
 
 
-### Development Tools & Frameworks
+### Frameworks, Tools & Technologies
 
 <p>
 
@@ -73,32 +76,87 @@ and learning how technology can solve real-world problems.
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 AI Feedback Insight Generator
-
-Full-stack application that analyzes customer feedback using AI.
-
-**Tech Used:** Angular | .NET | SQL | AI APIs
-
-- Sentiment analysis of user feedback
-- Customer and admin dashboards
-- Secure authentication system
+# 📌 Featured Projects
 
 
-### 🦺 Helmet Detection using YOLOv5
+## 🗣️ Silextra — AI Powered Communication Platform
 
-Deep learning based computer vision project.
+**Role:** Backend Developer  
+**Team Size:** 4  
+**Status:** Ongoing  
 
-**Tech Used:** Python | YOLOv5 | Machine Learning
+**Tech Stack:**  
+Python | Google Cloud Translation API | Google Gemini | NLP | Speech Recognition | DeepMotion AI | Blender | HTML | CSS | JavaScript
 
-- Detects helmet usage from images
-- Applies object detection techniques
+- Developed features for speech processing and language translation.
+- Worked on speech-to-text conversion and English-to-Malayalam translation.
+- Contributed to AI avatar creation for interactive communication experiences.
 
 
 ---
 
-## 📊 GitHub Analytics
+
+## 👓 EchoFrame — AI Smart Glasses
+
+**Role:** Backend Developer  
+
+**Tech Stack:**  
+YOLOv5 | TensorFlow Lite | ESP32-S3 | Python
+
+- Developed an AI-powered smart glasses system.
+- Implemented real-time object detection using computer vision.
+- Integrated audio feedback support for detected objects.
+
+
+---
+
+
+## 🛡️ Helmet Detection System
+
+**Role:** Backend Developer  
+
+**Tech Stack:**  
+Python | YOLOv5 | Computer Vision
+
+- Built a deep learning based helmet detection system.
+- Used YOLOv5 for automated object detection.
+- Applied computer vision techniques for safety monitoring.
+
+
+---
+
+
+## 😊 Mood Decode — Mental Health Support Application
+
+**Role:** Backend Developer  
+
+**Tech Stack:**  
+Python | Flask | Natural Language Processing (NLP)
+
+- Created an NLP-powered mental health support application.
+- Analyzed user input and mapped responses to mood states.
+- Provided personalized suggestions based on detected emotions.
+
+
+---
+
+
+## 🕵️ NoTrace — Deepfake Protection System
+
+**Role:** Backend Developer  
+**Status:** Ongoing  
+
+**Tech Stack:**  
+Python | Flask | Adversarial Machine Learning
+
+- Developing an AI-powered image protection system.
+- Generates adversarial noise to protect images.
+- Helps prevent unauthorized deepfake misuse.
+
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -113,7 +171,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&l
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -127,6 +185,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=sarah20037&theme=tok
 
 <div align="center">
 
-### ✨ Learn. Build. Improve.
+### ✨ Learn. Build. Innovate.
 
 </div>
