@@ -151,18 +151,36 @@ AI-powered image protection system against deepfake misuse.
 <div align="center">
 
 <img 
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarah20037&theme=radical"
+width="850"
 />
 
 <br><br>
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarah20037&theme=radical"
+width="400"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarah20037&theme=radical"
+width="400"
+/>
+
+<br><br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarah20037&theme=radical"
+width="400"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarah20037&theme=radical&utcOffset=5.5"
+width="400"
 />
 
 </div>
+
 
 
 ---
